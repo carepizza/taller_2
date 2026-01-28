@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-#Carga de librerias
+# Librerias Cargadas 
 
 
 app = dash.Dash(
